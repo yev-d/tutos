@@ -9,15 +9,11 @@ Connect to Raspberry Pi 3b (RPi3b for short)
   * Ubiquity Robotics Raspberry Pi Image on RPi3b 
 
 ## Workflow 
-
   * Connect RPI3b to Wi-Fi router via LAN 
   * Connect to RPi3b via Wi-Fi 
-
-    Get RPi3b IP-address 
-
-    Disconnect from RPi3b and connect to Wi-Fi router 
-
-    Connect to RPi3b via SSH 
+  * Get RPi3b IP-address 
+  * Disconnect from RPi3b and connect to Wi-Fi router 
+  * Connect to RPi3b via SSH 
 
 ## Step 1: Connect RPI3b to Wi-Fi router via LAN cable
 
@@ -33,7 +29,7 @@ Select it and connect to it using **ubuntu** as a password.
 
 ## Step 3: Get RPi3b IP-address 
 
-Open new terminal window and connect to RPi3b using SSH with password **ubuntu**: 
+Open new terminal window and connect to RPi3b using this SSH login and address with this password **ubuntu**: 
 
 ``` 
 
