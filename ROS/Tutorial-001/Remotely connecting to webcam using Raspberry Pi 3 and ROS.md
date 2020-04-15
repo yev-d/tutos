@@ -4,7 +4,9 @@ In this tutorial Iâ€™m remotely connecting to webcam using ROS. From a laptop Iâ
 
 ## Setup
 Here is the setup that I'm using.
-[setup-img]
+
+<img src=img/setup-img.png alt="Setup scheme"/>
+
 Typical USB webcamera is connected to RPi3b. RPi3b is connected to the Wi-Fi router via LAN cable (By the way, this can be replaced with a usb wi-fi adapter, so that RPi3b is connected to the router wirelessly). A PC or a laptop is connected to the router via Wi-Fi.
 ### Software
   * [Raspberry Pi Image from Ubiquity Robotics](https://downloads.ubiquityrobotics.com/pi.html)
@@ -131,4 +133,3 @@ https://super-geek-news.github.io/articles/414859/index.html
 
 https://github.com/ut-ims-robotics/tutorials/wiki/Running-ROS-over-multiple-computers
 
-[setup-img]: https://github.com/yev-d/tutos/ROS/Tutorial-001/img/setup-img.png "Setup scheme"
