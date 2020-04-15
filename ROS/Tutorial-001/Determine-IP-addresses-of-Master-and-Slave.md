@@ -1,6 +1,6 @@
 ## The goal 
 
-Connect to Raspberry Pi 3b (RPi3b for short) 
+Connect to Raspberry Pi 3b (RPi3b for short). Determine it's IP-adress.
 
 ## Environment 
 
