@@ -1,6 +1,6 @@
 ## The goal 
 
-Connect to Raspberry Pi 3b (RPi3b for short). Determine it's IP-adress.
+Connect to Raspberry Pi 3b (RPi3b for short). Determine it's IP-adress, for the [Tutorial 001: Remotely connecting to webcam using Raspberry Pi 3 and ROS](Remotely-connecting-to-webcam-using-Raspberry-Pi-3-and-ROS.md)
 
 ## Environment 
 
