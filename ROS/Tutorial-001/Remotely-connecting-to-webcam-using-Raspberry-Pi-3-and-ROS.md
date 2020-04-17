@@ -1,7 +1,7 @@
 # ROS Tutorial 001: Remotely connecting to webcam using Raspberry Pi 3 and ROS
 
 In this tutorial, I’m remotely connecting to webcam using ROS. From a laptop, I’m connecting to a web camera that is connected to Raspberry Pi 3b (RPi3b for short) via USB. There is no monitor, no keyboard or mouse on Raspberry Pi 3b. I’m using SSH to connect to the Rpi3b.
-
+Gist for this tutorial is [here](https://gist.github.com/yev-d/f83d04323a15f2bc9eabeeead4668568)
 ## Setup
 Here is the setup that I'm using.
 
@@ -121,6 +121,12 @@ rosrun image_view image_view image:=/usb_cam/image_raw
 ```
 That's it. That's all. 
 
+If you have any questions, comments or suggestions, let's discuss them here:
+
+## Comments
+[https://gist.github.com/yev-d/f83d04323a15f2bc9eabeeead4668568](https://gist.github.com/yev-d/f83d04323a15f2bc9eabeeead4668568)
+
+## References
 Here are the links that helped me throughout this tutorial:
 
 http://wiki.ros.org/usb_cam#usb_cam_node
